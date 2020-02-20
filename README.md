@@ -9,7 +9,7 @@
 This project is completed in four parts, each with its own Jupyter notebook.
 
 1. [Data Collection: IndieP_Data_Collection.ipynb](https://github.com/argwood/IndieP/blob/master/IndieP_Data_Collection.ipynb)
-2. Data Cleaning: IndieP_Data_Cleaning.ipynb
+2. [Data Cleaning: IndieP_Data_Cleaning.ipynb](https://github.com/argwood/IndieP/blob/master/IndieP_Data_Cleaning.ipynb)
 3. Data Exploration: IndieP_Exploration.ipynb
 4. Predictions using ML: IndieP_Predictions.ipynb
 
